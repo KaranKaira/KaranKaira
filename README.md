@@ -1,9 +1,9 @@
-### Hey there, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Welcome !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### I am Karan Singh Kaira, an Aspiring Software Engineer and a 3rd year ECE undergrad at NSIT, Delhi
 
-- 🔭 I’m currently learning React.js , GraphQL.
+- 🔬 I’m currently learning React.js , GraphQL.
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [React ToDoList](https://young-taiga-75519.herokuapp.com/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Landing Page using Tailwind CSS](https://karankaira.github.io/Landing-Page-Using-Tailwind-CSS/public/index.html)  ,
 - 🔭Checkout my Machine Learning projects : [KNN Classifier](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/KNN%20SELF%20MADE.ipynb) , [Decision Tree Implementation](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/DecisionTreeImplementation.ipynb)
@@ -26,7 +26,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/graphql.png" title="Tensorflow"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/graphql.png" title="GraphQL"/></code>
 
 
 
