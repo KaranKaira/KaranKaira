@@ -8,7 +8,8 @@
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [React ToDoList](https://young-taiga-75519.herokuapp.com/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Landing Page using Tailwind CSS](https://karankaira.github.io/Landing-Page-Using-Tailwind-CSS/public/index.html)  ,
 - 🔭Checkout my Machine Learning projects : [KNN Classifier](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/KNN%20SELF%20MADE.ipynb) , [Decision Tree Implementation](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/DecisionTreeImplementation.ipynb)
 - 🔭 Checkout my python project :[Amazon Price Tracker](https://github.com/KaranKaira/AmazonPriceTracker)
-- ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me)  
+- ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
+
  
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
@@ -34,4 +35,8 @@
 <code><a href="https://www.linkedin.com/in/karankaira/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="mailto:kairakaran362@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
- <img src = "https://github-readme-stats.vercel.app/api?username=KaranKaira&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKaira&layout=compact)](https://github.com/KaranKaira/github-readme-stats)
+
+
+
+ <img src = "https://github-readme-stats.vercel.app/api?username=KaranKaira&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true">
