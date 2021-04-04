@@ -5,7 +5,7 @@
 
 - 🔬 I’m currently learning React.js , GraphQL.
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
-- 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [React ToDoList](https://young-taiga-75519.herokuapp.com/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Landing Page using Tailwind CSS](https://karankaira.github.io/Landing-Page-Using-Tailwind-CSS/public/index.html)  ,
+- 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [React ToDoList](https://react-todo-list-karan-kaira.netlify.app/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Landing Page using Tailwind CSS](https://karankaira.github.io/Landing-Page-Using-Tailwind-CSS/public/index.html)  ,
 - 🔭Checkout my Machine Learning projects : [KNN Classifier](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/KNN%20SELF%20MADE.ipynb) , [Decision Tree Implementation](https://github.com/KaranKaira/MachineLearningAlgorithms/blob/master/DecisionTreeImplementation.ipynb)
 - 🔭 Checkout my python project :[Amazon Price Tracker](https://github.com/KaranKaira/AmazonPriceTracker)
 - ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
