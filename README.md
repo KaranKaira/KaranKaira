@@ -5,7 +5,7 @@
 
 - 🔬 I’m currently learning React.js , GraphQL , Gatsby .
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
-- - ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
+-  ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
 
 - 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [React ToDoList](https://react-todo-list-karan-kaira.netlify.app/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Learning Gatsby](https://me-learning-gatsby.netlify.app/)  ,
 
