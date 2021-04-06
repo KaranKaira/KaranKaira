@@ -34,8 +34,6 @@
 <code><a href="https://www.linkedin.com/in/karankaira/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="mailto:kairakaran362@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
-[//]: # ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKaira&layout=compact&theme=cobalt)](https://github.com/KaranKaira/github-readme-stats))
-
 
 
  <img src = "https://github-readme-stats.vercel.app/api?username=KaranKaira&theme=cobalt&count_private=true&show_icons=true&include_all_commits=true">
