@@ -7,7 +7,7 @@
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
 -  ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
 
-- 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [Share-X](https://karan-kaira-sharex.netlify.app/) ,  [Blog Website](https://dry-meadow-11414.herokuapp.com/)  , [Learning Gatsby](https://me-learning-gatsby.netlify.app/) 
+- 🔭 Checkout my webd projects: [ElectionEasy](https://electioneasy.herokuapp.com/) , [Share-X](https://karan-kaira-sharex.netlify.app/) ,  [Note Taking App](https://jolly-stonebraker-24d5c7.netlify.app/)  , [Learning Gatsby](https://me-learning-gatsby.netlify.app/) 
 
  
  ### 🔧 Languages and Frameworks:
