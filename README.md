@@ -1,7 +1,7 @@
 ### Welcome !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### I am Karan Singh Kaira, an Aspiring Software Engineer and a 3rd year ECE undergrad at NSIT, Delhi
+### I am Karan Singh Kaira, 4rd year ECE undergrad at NSIT, Delhi
 
 - 🔬 I’m currently learning React.js , GraphQL , Gatsby .
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
