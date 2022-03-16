@@ -3,7 +3,7 @@
 
 ### I am Karan Singh Kaira, 4rd year ECE undergrad at NSIT, Delhi
 
-- 🔬 I’m currently learning React.js , GraphQL , Gatsby .
+- 🔬 I’m currently trying a Open soure .
 - 😄 My areas of interest are  Web development, Competitive programming, Data Structures and Algorithms.
 -  ⚡My competitive profiles: [Codechef](https://www.codechef.com/users/karankaira) , [Leetcode](https://leetcode.com/mandh_budhi_huon_me/) , [Codeforces](https://codeforces.com/profile/mandh_bhudhi_huon_me) 
 
